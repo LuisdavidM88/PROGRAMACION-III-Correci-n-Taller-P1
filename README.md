@@ -1,3 +1,6 @@
+## 👥 Integrantes del grupo
+- **Luis David Morales** 
+- **Lucas Karlsson** 
 # 🚍 Proyecto: Sistema de Venta de Boletos – Taller P1 (Programación III)
 
 ## 📘 Descripción general
